@@ -1,13 +1,13 @@
 ## Tommy TIAN
 
 [![Github](https://img.shields.io/github/followers/tommytim0515?label=Follow&style=social)](https://github.com/tommytim0515)
-[![Mail](https://img.shields.io/badge/-tianxiangan2000515@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](tianxiangan2000515@gmail.com)
+[![Mail](https://img.shields.io/badge/-tianxiangan2000515@gmail.com-black?style=flat-square&logo=gmail&logoColor=red&link=)](tianxiangan2000515@gmail.com)
 
-CSE Underguraduate@HKUST
+CSE UG@HKUST
 
 ## My Blog
 
-<https://ttommy.tech>
+[Tommy's Blogs](https://ttommy.tech)
 
 ## GitHub Status
 
