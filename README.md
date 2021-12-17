@@ -5,4 +5,4 @@
 
 Undergraduate at Hong Kong University of Science and Technology.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommytim0515&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommytim0515&langs_count=20&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
