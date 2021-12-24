@@ -2,7 +2,7 @@
 
 Undergraduate at Hong Kong University of Science and Technology.
 
-In 2021, I made 504 contributions and modified 98,000 lines of code. Check out my GitHub Wrapped and create your own at [githubtrends.io/wrapped/tommytim0515](githubtrends.io/wrapped/tommytim0515)
+In 2021, I made 504 contributions and modified 98,000 lines of code. Check out my GitHub Wrapped and create your own at githubtrends.io/wrapped/tommytim0515
 
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommytim0515&count_private=true)](https://ttommy.tech)
 
