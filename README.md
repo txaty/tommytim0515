@@ -2,7 +2,7 @@
 
 Undergraduate at Hong Kong University of Science and Technology.
 
-[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommytim0515&count_private=true)](https://ttommy.tech)
+[![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommytim0515&count_private=true)]()
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tommytim0515/langs?time_range=one_year&use_percent=True&include_private=True&compact=True&theme=classic)](https://githubtrends.io)
 
