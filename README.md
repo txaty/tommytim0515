@@ -2,6 +2,8 @@
 
 Undergraduate at Hong Kong University of Science and Technology.
 
+![](https://komarev.com/ghpvc/?username=tommytim0515&color=blue)
+
 [![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommytim0515&count_private=true)]()
 
  [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/tommytim0515/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic)](https://githubtrends.io)
