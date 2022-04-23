@@ -1,6 +1,6 @@
 ## Tommy TIAN
 
-Undergraduate at Hong Kong University of Science and Technology.
+Undergraduate  and incomming MPhil at Hong Kong University of Science and Technology.
 
 ![](https://komarev.com/ghpvc/?username=tommytim0515&color=blue)
 
