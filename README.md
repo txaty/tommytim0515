@@ -1,5 +1,7 @@
 ## Tommy TIAN
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;This+is+Tommy+TIAN~)](https://git.io/typing-svg)
+
 Undergraduate  and incomming MPhil at Hong Kong University of Science and Technology.
 
 ![](https://komarev.com/ghpvc/?username=tommytim0515&color=blue)
