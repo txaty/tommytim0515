@@ -10,10 +10,11 @@ CSE MPhil at Hong Kong University of Science and Technology.
 
 [![Mail](https://img.shields.io/badge/-tianxiangan2000515@gmail.com-black?style=social&logo=gmail&logoColor=red&link=)](tianxiangan2000515@gmail.com)
 
+<img src="https://github-readme-stats.vercel.app/api?username=tommytim0515&count_private=true">
 
-<p float="left">
+<!-- <p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=tommytim0515&count_private=true" height="180">
 <img src="https://api.githubtrends.io/user/svg/tommytim0515/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic" height="180">
-</p>
+</p> -->
 
  
