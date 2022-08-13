@@ -6,12 +6,11 @@ CSE MPhil at Hong Kong University of Science and Technology.
 
 My previous GitHub ID: tommytim0515
 
-![](https://komarev.com/ghpvc/?username=tommytim0515&color=blue)
+<!-- ![](https://komarev.com/ghpvc/?username=tommytim0515&color=blue) -->
 [![Github](https://img.shields.io/github/followers/txaty?label=Follow)](https://github.com/txaty)
 [![wakatime](https://wakatime.com/badge/user/dde53937-3285-4b32-b8eb-b39420ffc16e.svg)](https://wakatime.com/@dde53937-3285-4b32-b8eb-b39420ffc16e)
 <!-- ![status](https://badge.stateful.com/tommytim0515/status.svg) -->
-
-[![Mail](https://img.shields.io/badge/-tianxiangan2000515@gmail.com-black?style=social&logo=gmail&logoColor=red&link=)](tianxiangan2000515@gmail.com)
+[![Mail](https://img.shields.io/badge/-tommytian15@gmail.com-black?style=social&logo=gmail&logoColor=red&link=)](tommytian15@gmail.com)
 
 <img src="https://github-readme-stats.vercel.app/api?username=txaty&count_private=true">
 
