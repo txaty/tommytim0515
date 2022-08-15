@@ -2,7 +2,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;This+is+Tommy+TIAN~)](https://git.io/typing-svg) -->
 
-CSE MPhil at Hong Kong University of Science and Technology.
+CS MPhil (Master of Philosophy) @ HKUST.
 
 My previous GitHub ID: tommytim0515
 
