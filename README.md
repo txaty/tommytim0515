@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="./assets/background.jpeg" alt="Gopher!">
+</div>
+
 ## Tommy TIAN
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;This+is+Tommy+TIAN~)](https://git.io/typing-svg) -->
