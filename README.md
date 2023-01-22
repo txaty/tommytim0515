@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/web3.jpeg" alt="Gopher!", style="width: 100%">
+    <img src="./assets/background.jpeg" alt="Gopher!", style="width: 198%">
 </div>
 
 # Tommy TIAN
