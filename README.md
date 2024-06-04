@@ -4,8 +4,6 @@
 
 # Tommy TIAN
 
-Computer Science MPhil (Master of Philosophy) @ HKUST.
-
 My previous GitHub ID: tommytim0515
 
 <!-- [![Github](https://img.shields.io/github/followers/txaty?label=Follow&color=00A8CC)](https://github.com/txaty) -->
