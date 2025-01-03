@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/pi.png" alt="pi", width="100">
+    <img src="./assets/pi.png" alt="pi", width="250">
 </div>
 
 # Tommy TIAN
