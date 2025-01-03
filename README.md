@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/pi.png" alt="cryptography", style="width: 30%">
+    <img src="./assets/pi.png" alt="pi", width="100">
 </div>
 
 # Tommy TIAN
